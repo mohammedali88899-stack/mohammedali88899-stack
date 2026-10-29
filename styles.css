@@ -399,10 +399,20 @@ h1 {
   background: rgba(255,255,255,0.02);
   border: 1px solid var(--line);
   border-radius: 22px;
-  padding: 22px 20px;
+  padding: 14px 14px 20px;
   display: flex;
   flex-direction: column;
   gap: 14px;
+  overflow: hidden;
+}
+
+.project-thumb {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  background: rgba(255,255,255,0.02);
 }
 
 .tag {
