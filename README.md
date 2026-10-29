@@ -1,7 +1,7 @@
 # Hi, I'm Mohamed Ali Hassan 👋
 ### Data Analyst | Telecom & Sales Operations Analytics
 
-I am a results-oriented Data Analyst with **10+ years of domain expertise in telecommunications and retail sales operations** (Vodafone Egypt). I specialize in translating messy operational datasets into automated dashboards, early-warning customer retention systems, and executive financial strategies.
+I am a results-oriented Data Analyst with **4+ years of domain expertise in telecommunications and retail sales operations** (Vodafone Egypt). I specialize in translating messy operational datasets into automated dashboards, early-warning customer retention systems, and executive financial strategies.
 
 ---
 
